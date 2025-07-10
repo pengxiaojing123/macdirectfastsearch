@@ -60,11 +60,7 @@ python3 main.py search "*.pdf"
 python3 main.py search "*.jpg" --limit 20
 ```
 
-### 3. 查看数据库状态
 
-```bash
-python3 main.py status
-```
 
 ## 搜索语法
 
