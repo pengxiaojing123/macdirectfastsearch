@@ -1,0 +1,16 @@
+# Mac文件快速检索工具
+# 本项目仅使用Python 3.6+标准库，无需额外依赖
+
+# Python标准库模块（无需pip安装）:
+# - os
+# - sqlite3  
+# - argparse
+# - fnmatch
+# - sys
+# - pathlib
+# - time
+# - datetime
+
+# 如果需要增强功能，可以考虑以下可选依赖：
+# colorama>=0.4.4  # 彩色终端输出
+# tqdm>=4.62.0     # 进度条显示 
